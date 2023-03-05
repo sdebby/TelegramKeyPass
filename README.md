@@ -1,5 +1,6 @@
 # TelegramKeyPass
-KeyPass integration into telegram- because why not
+KeyPass integration into telegram- because why not.
+
 Useful in cases of personal keepass data file on local machine.
 
 usecase:

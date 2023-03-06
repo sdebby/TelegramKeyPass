@@ -10,7 +10,7 @@ usecase:
  * Secure personal keepass database (database file not exposed to the internet)
  * Add/Remove/Search querys. 
  * All sensative messages have auto deletation.
- * Thois script use Python 3.10 and up
+ * This script use Python 3.10 and up
 
 # Usege
 * Modify settings in data.config
